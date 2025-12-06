@@ -131,4 +131,4 @@ for tracker in result['all_trackers']:
 
 ## License
 
-Internal use only - Insider Intelligence
+Internal use only 
