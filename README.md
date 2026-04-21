@@ -1,3 +1,10 @@
+<!-- gh-gl-migrate:notice-start -->
+> [!IMPORTANT]
+> **This repository has moved to GitLab.**
+> Active development is now at **https://gitlab.com/digitl-gmbh/teams/dc/int-tracker-detection-api**.
+> This GitHub copy is archived for reference only and no longer receives updates.
+<!-- gh-gl-migrate:notice-end -->
+
 # Tracker Detection API
 
 Standalone API for detecting marketing and advertising trackers on websites.
